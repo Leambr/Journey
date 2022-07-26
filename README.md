@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Projet de fin d'année · <a target="_blank" href="https://journey-">Journey</a></h3>
+  <h3>Projet de fin d'année · <a target="_blank" href="https://journey-paris.netlify.app">Journey</a></h3>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt='react'>
 </div>
 
