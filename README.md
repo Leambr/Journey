@@ -21,5 +21,5 @@ Elle a une version web pour expliquer le produit et une version mobile avec les 
 
 ```
 npm install
-npm run serve
+npm start
 ```
